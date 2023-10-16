@@ -29,17 +29,17 @@ Before getting started with your Line Following Robot project, make sure you hav
 
 ## Assembly
 
-1. **Chassis Assembly**: Assemble the robot's chassis, following the manufacturer's instructions. Attach the motors and wheels securely.
+1. Chassis Assembly: Assemble the robot's chassis, following the manufacturer's instructions. Attach the motors and wheels securely.
 
-2. **Sensor Placement**: Mount the line detection sensors on the robot's front, close to the ground, and aligned with the expected line path.
+2. Sensor Placement: Mount the line detection sensors on the robot's front, close to the ground, and aligned with the expected line path.
 
-3. **Microcontroller Setup**: Connect the sensors and motors to your microcontroller board. Verify the wiring and connections are correct.
+3. Microcontroller Setup: Connect the sensors and motors to your microcontroller board. Verify the wiring and connections are correct.
 
-4. **Power Supply**: Connect the power supply to the microcontroller and motors. Ensure it meets the voltage and current requirements.
+4. Power Supply: Connect the power supply to the microcontroller and motors. Ensure it meets the voltage and current requirements.
 
-5. **Upload Code**: Upload the line following algorithm or code to your microcontroller board. Be sure to calibrate the sensors if necessary.
+5. Upload Code: Upload the line following algorithm or code to your microcontroller board. Be sure to calibrate the sensors if necessary.
 
-6. **Test and Adjust**: Place the robot on the line path and test its functionality. If it doesn't follow the line correctly, make any necessary adjustments in the code or sensor positioning.
+6. Test and Adjust: Place the robot on the line path and test its functionality. If it doesn't follow the line correctly, make any necessary adjustments in the code or sensor positioning.
 
 ## Software Setup
 
@@ -65,5 +65,3 @@ If you'd like to contribute to this project or have suggestions for improvements
 This project was designed and implemented by Pittala Ashok.For any doubts you can contact me at pittalaashok226@gmail.com
 
 ---
-
-Feel free to customize this README template according to your specific Line Following Robot project. It's designed to be a helpful guide for users and contributors, and you can use it as a starting point for your GitHub repository's README file.
